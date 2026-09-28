@@ -10,4 +10,4 @@
 
 # Discord Card
 
-[![Discord Presence](https://lghrm.vercel.app/api/566359974289080362)](https://discord.com/users/566359974289080362)
+[![Discord Presence](https://lghrm.vercel.app/api/566359974289080362?showDisplayName=false&forceGradient=true&hideSpotify=false)](https://discord.com/users/566359974289080362)
