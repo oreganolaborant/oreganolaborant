@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently working on https://hub.xeron.site 
+🔭 I’m currently working on https://hub.xeron.site / https://xeron.site
 
 📫 How to reach me: dev@xeron.site
 
