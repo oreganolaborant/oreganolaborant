@@ -11,3 +11,9 @@
 # Discord Card
 
 [![Discord Presence](https://lghrm.vercel.app/api/566359974289080362?showDisplayName=false&forceGradient=true&hideSpotify=false)](https://discord.com/users/566359974289080362)
+
+# Discord Server
+
+<a href="https://dsc.gg/zgoly">
+  <img alt="Discord" src="https://invidget.switchblade.xyz/hg9etN74h9">
+</a>
