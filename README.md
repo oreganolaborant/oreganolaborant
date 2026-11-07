@@ -14,6 +14,6 @@
 
 # Discord Server
 
-<a href="https://dsc.gg/zgoly">
-  <img alt="Discord" src="https://invidget.switchblade.xyz/hg9etN74h9">
+<a href="https://dsc.gg/xeronhub">
+  <img alt="Discord" src="https://invidget.switchblade.xyz/yCJhy2eZhK">
 </a>
